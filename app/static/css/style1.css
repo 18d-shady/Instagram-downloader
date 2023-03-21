@@ -1,0 +1,26 @@
+body {
+	background-color: #181818;
+}
+
+form {
+	margin-top: 20vh;
+}
+
+input, .btn {
+	display: block;
+	margin: auto;
+	margin-top: 2vh;
+
+}
+
+#linkk {
+	width: 40vw;
+	height: 50px;
+}
+
+div {
+	margin: auto;
+	background-color: #C4C4C4;
+	width: 60vw;
+	height: 60vh;
+}
